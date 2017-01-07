@@ -3,7 +3,7 @@ Test repository for Spring Web Reactive + Netty hanging while returning JSON in 
 
 Issue Links:
 
-   * https://jira.spring.io/browse/SPR-15XXX
+   * https://jira.spring.io/browse/SPR-15108
 
 
 This repository is aimed at testing how Netty hangs while trying to return amounts of
